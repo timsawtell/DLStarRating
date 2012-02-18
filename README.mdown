@@ -6,7 +6,7 @@ Written by [David Linsin](http://dlinsin.github.com), January 2011.
 
 
 ## Usage
-
+ 
 You find all the sources include two sample images under `DLStarRating`. Add the source folder to your project and use the `DLStarRatingControl` in Interface Builder to setup a default 5 star rating control. 
 
 If you'd like to instantiate it yourself with a custom number of stars use:
